@@ -1,0 +1,7 @@
+http://ibizaglobalradio.streaming-pro.com:8024/;stream.mp3
+http://live.emisoras.cadenaser.com:8085/CadenaSER.m3u
+http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
+http://195.10.10.213/cope/rockfm-low.mp3
+http://audio-online.net:2300/live
+http://ns5.emisionlocal.com:2199/tunein.php/radiomix/playlist.pls
+http://giss.tv:8000/radioflow992.mp3
